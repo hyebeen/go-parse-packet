@@ -9,7 +9,7 @@ func Test1() {
 }
 
 func Test2(s string) {
-	fmt.Println("Test", s)
+	fmt.Println("Test!!", s)
 }
 
 func Test3(s string) string {
