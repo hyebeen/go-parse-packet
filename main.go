@@ -51,3 +51,13 @@ func f() {
 		}
 	}
 }
+// &login_userid=(.+)&login_userpw=(.+)
+// &m_id=(.+)&m_passwd=(.+)
+// &txtID=(.+)&txtPass=(.+)
+// Data%5Bid%5D=(.+)&Data%5Bpw%5D=(.+)
+// &loginId=(.+)&password=(.+)
+// &mb_id=(.+)&mb_password=(.+)
+// userid=(.+)&userpw=(.+)
+// mid=(.+)&mpwd=(.+)
+// &id=(.+)&pw=(.+)
+// username=(.+)&j_password=(.+)
